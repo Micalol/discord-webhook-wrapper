@@ -1,6 +1,13 @@
 # discord-webhook-wrapper
 **__Use discord webhooks easy__**
 
++ installation
+```cmd
+pip install easy_webhook=0.0.1
+```
+
+
+
 + basic usage
 
 ```py
